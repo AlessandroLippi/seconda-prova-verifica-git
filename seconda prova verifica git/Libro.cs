@@ -8,9 +8,13 @@ namespace seconda_prova_verifica_git
 {
     internal class Libro
     {
+<<<<<<< HEAD
 
         public class Libro
         {
+=======
+        
+>>>>>>> Biblioteca
             public string autore { get; set; }
             public string editore { get; set; }
             public string titolo { get; set; }
@@ -42,6 +46,10 @@ namespace seconda_prova_verifica_git
             {
                 //if (Libro.nPagine) // come creare un oggetto generico che mi permetta di fare questo controllo su qualsiasi oggetto che chiama questo metodo
             }
+<<<<<<< HEAD
         }
+=======
+        
+>>>>>>> Biblioteca
     }
 }
