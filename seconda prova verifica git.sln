@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seconda prova verifica git", "seconda prova verifica git\seconda prova verifica git.csproj", "{2E7CA74E-1513-4093-B7A9-C38AAD509C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E7CA74E-1513-4093-B7A9-C38AAD509C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7CA74E-1513-4093-B7A9-C38AAD509C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7CA74E-1513-4093-B7A9-C38AAD509C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7CA74E-1513-4093-B7A9-C38AAD509C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9D76DD-1622-4EC3-812E-7D608A4A5BBF}
+	EndGlobalSection
+EndGlobal
