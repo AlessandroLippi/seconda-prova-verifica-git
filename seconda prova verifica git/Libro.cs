@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace seconda_prova_verifica_git
 {
-    internal class Program
+    internal class Libro
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
